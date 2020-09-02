@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calculadora de Bitcoin</string>
+    <string name="titulo">Calculadora de bitcoin</string>
+    <string name="cotacao">Cotação atual:</string>
+    <string name="valor_em_reais">Valor em reais:</string>
+    <string name="exemplo">Ex: 45,00</string>
+    <string name="calcular">Calcular</string>
+    <string name="quantidade_de_bitcoins">Quantidade de bitcoins:</string>
 </resources>
